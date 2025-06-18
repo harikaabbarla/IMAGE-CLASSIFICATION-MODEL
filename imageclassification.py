@@ -69,4 +69,4 @@ classes[y_classes[8]]
 print("CNN classification report is: ",classification_report(y_test,y_classes))
 
 
-![Image](https://github.com/user-attachments/assets/88005aa8-4d82-4dfa-9fbb-ba7b6da023eb)
+https://github.com/user-attachments/assets/88005aa8-4d82-4dfa-9fbb-ba7b6da023eb
