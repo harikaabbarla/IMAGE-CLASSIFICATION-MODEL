@@ -37,7 +37,6 @@ print('ANN Classification report is : ',classification_report(y_test,y_pred_clas
 
 OUTPUT :
 
-![Image](https://github.com/user-attachments/assets/c9dd843f-9a39-4f6b-a7d8-0fb73343e50d)
 
 # building a Convolutional Neural Network for the given dataset
 cnn=models.Sequential([
@@ -67,6 +66,3 @@ y_test[:5]
 plot_image(x_test,y_test,8)
 classes[y_classes[8]]
 print("CNN classification report is: ",classification_report(y_test,y_classes))
-
-
-https://github.com/user-attachments/assets/88005aa8-4d82-4dfa-9fbb-ba7b6da023eb
