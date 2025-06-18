@@ -37,7 +37,7 @@ print('ANN Classification report is : ',classification_report(y_test,y_pred_clas
 
 OUTPUT :
 
-
+"C:\Users\nsarm\OneDrive\Desktop\Pictures\Screenshots\18 june\ann.png"
 
 # building a Convolutional Neural Network for the given dataset
 cnn=models.Sequential([
